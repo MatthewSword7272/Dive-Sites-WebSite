@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/App-Dive-Sites-Project.iml" filepath="$PROJECT_DIR$/.idea/App-Dive-Sites-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dive-app-rails.iml" filepath="$PROJECT_DIR$/.idea/modules/dive-app-rails.iml" />
+    </modules>
+  </component>
+</project>

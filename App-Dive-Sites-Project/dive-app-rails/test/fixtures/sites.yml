@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  max_depth: 1
+  min_depth: 1
+  types: MyString
+  certification: MyString
+  spearfishing: MyString
+  port_phillip: MyString
+  description: MyString
+  latitude: MyString
+  longitude: MyString
+  date: 2022-03-24 14:31:25
+
+two:
+  name: MyString
+  max_depth: 1
+  min_depth: 1
+  types: MyString
+  certification: MyString
+  spearfishing: MyString
+  port_phillip: MyString
+  description: MyString
+  latitude: MyString
+  longitude: MyString
+  date: 2022-03-24 14:31:25
